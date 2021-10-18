@@ -3,7 +3,7 @@
 }
 
 body {
-    background: #fff;
+    background: white;
     display: grid;
     place-items: center;
     height: 100vh;
